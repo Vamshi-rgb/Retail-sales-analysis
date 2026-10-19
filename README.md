@@ -34,3 +34,13 @@ Completed initial Excel analysis and Power BI dashboard development. Further val
 ## Dashboard Preview
 
 ![Retail Sales Analysis Dashboard](dashboard.png)
+
+## Key Findings
+
+- Total sales were approximately ₹13.42 crore in the Excel analysis.
+- Total profit was approximately ₹3.75 crore.
+- The overall profit margin was approximately 28%.
+- Electronics recorded the highest sales among the product categories.
+- Bookshelf sales increased by approximately 23.1% from 2024 to 2025.
+- Tablet sales decreased by approximately 33.5% from 2024 to 2025.
+- Further investigation is needed to understand declining product sales and confirm data consistency between Excel and Power BI.
