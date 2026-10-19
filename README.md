@@ -29,3 +29,4 @@ The analysis helps identify sales trends, compare regional and category performa
 
 ## Project Status
 Completed initial Excel analysis and Power BI dashboard development. Further validation of totals and filters is recommended.
+
